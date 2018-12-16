@@ -1,0 +1,8 @@
+[package]
+name = "raspberry-pi-rust"
+version = "0.1.0"
+authors = ["Jesse Stowijk <stolwijkjesse@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rppal = "0.9"
